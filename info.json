@@ -3,8 +3,8 @@
   "version": "0.17.2",
   "title": "Bot Recaller",
   "author": "Sebbi",
-  "contact": "https://forums.factorio.com/ucp.php?i=pm&mode=compose&u=33391",
-  "homepage": "https://forums.factorio.com/viewtopic.php?f=95&t=39035",
+  "contact": "https://github.com/sebbi08/BotRecaller",
+  "homepage": "https://github.com/sebbi08/BotRecaller",
   "description": "Utility mod to help recall/collect bots within a network.",
   "factorio_version": "0.17",
   "dependencies": ["base >= 0.4.1"]
