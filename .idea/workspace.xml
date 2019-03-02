@@ -14,20 +14,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.lua">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+              <first_editor relative-caret-position="272">
+                <caret line="16" column="138" lean-forward="true" selection-start-line="6" selection-end-line="16" selection-end-column="138" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -36,33 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/control.lua">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/info.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1445">
-              <caret line="85" column="33" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="33" />
-              <folding>
-                <element signature="e#43#453#0" />
-                <element signature="e#495#1820#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data.lua">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+            <state relative-caret-position="17">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -79,6 +48,9 @@
     <dirStrings>
       <dir>D:\Code\BotRecaller</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,6 +69,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -109,6 +82,16 @@
             <path>
               <item name="BotRecaller" type="b2602c69:ProjectViewProjectNode" />
               <item name="BotRecaller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotRecaller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotRecaller" type="462c0819:PsiDirectoryNode" />
+              <item name="graphics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotRecaller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotRecaller" type="462c0819:PsiDirectoryNode" />
+              <item name="locale" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,16 +131,15 @@
       <workItem from="1551551085623" duration="626000" />
       <workItem from="1551552099044" duration="85000" />
       <workItem from="1551552202126" duration="2199000" />
-      <workItem from="1551554576665" duration="189000" />
+      <workItem from="1551554576665" duration="457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3099000" />
+    <option name="totallyTimeSpent" value="3367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45500848" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -177,7 +159,7 @@
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32910052" />
       <window_info anchor="bottom" id="CGEdit" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" weight="0.3275488" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3275488" />
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3601286" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3290461" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -210,19 +192,6 @@
     <entry file="file://$PROJECT_DIR$/migrations/CpeBotRecaller_0_14_1.lua">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/info.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphics/entity.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphics/icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.lua">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -241,6 +210,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/graphics/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphics/entity.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/data.lua">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -258,12 +233,19 @@
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="138" lean-forward="true" selection-start-line="6" selection-end-line="16" selection-end-column="138" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="22" />
         </state>
       </provider>
     </entry>
