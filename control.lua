@@ -81,7 +81,7 @@ end
 
 
 script.on_event(defines.events.on_tick, function(event)
-	if event.tick % (settings.data.default_value * 60) == 0 then
+	if event.tick % (settings.startup["recall-delay-per-robot"].value * 60) == 0 then
 		checkRecallers()
 	end
 end)
